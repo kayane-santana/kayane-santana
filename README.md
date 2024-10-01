@@ -1,16 +1,22 @@
-## Hi there 👋
+## _Diário de Bordo: Uma Dev em Formação_ ✈️
 
-<!--
-**kayane-santana/kayane-santana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🌎 **Olá, mundo!** Me chamo Kayane, sou estudante de Engenharia de Software e apaixonada por tecnologia. 
 
-Here are some ideas to get you started:
+#### Por que programação?
+✨ _Porque criar é mágico!_ ✨ Adoro a sensação de ver uma ideia tomando forma e no fim funcionando perfeitamente. É gratificante superar cada desafio e saber que estou deixando minha marca no mundo digital.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Neste repositório, você encontrará meus projetos pessoais, que são como um diário da minha jornada de aprendizado. Aqui, eu experimento, erro e aprendo, transformando ideias em código.
+
+#### 📌 O que você vai encontrar por aqui:
+* **Projetos pessoais:** meus primeiros passos na programação.
+* **Experimentos:** brincando com novas tecnologias e conceitos.
+* **Aprendizados:** tudo o que estou descobrindo nessa jornada.
+
+#### Tecnologias que estou explorando:
+* HTML
+* CSS
+* JavaScript
+* Python
+* MySQL
+
+**Vamos aprender juntos!**
